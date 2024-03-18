@@ -62,28 +62,10 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "file_picker",
-      "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.dev/file_picker-5.5.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
       "name": "flutter",
       "rootUri": "file:///d:/Software/flutter/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.2"
-    },
-    {
-      "name": "flutter_money",
-      "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_money-0.0.3",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "flutter_plugin_android_lifecycle",
-      "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.17",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
     },
     {
       "name": "flutter_qr_bar_scanner",
@@ -100,12 +82,6 @@
     {
       "name": "flutter_test",
       "rootUri": "file:///d:/Software/flutter/flutter/packages/flutter_test",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
-      "name": "flutter_web_plugins",
-      "rootUri": "file:///d:/Software/flutter/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -392,7 +368,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2024-03-18T07:56:36.410150Z",
+  "generated": "2024-03-18T08:08:58.957091Z",
   "generator": "pub",
   "generatorVersion": "3.3.0"
 }

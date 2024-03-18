@@ -81,35 +81,11 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.2"
-  file_picker:
-    dependency: "direct main"
-    description:
-      name: file_picker
-      sha256: be325344c1f3070354a1d84a231a1ba75ea85d413774ec4bdf444c023342e030
-      url: "https://pub.dev"
-    source: hosted
-    version: "5.5.0"
   flutter:
     dependency: "direct main"
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_money:
-    dependency: "direct main"
-    description:
-      name: flutter_money
-      sha256: "7d7eed93a6f06caf0ed74d8e54b36e77f95329a2e88b308711ce38f71860777a"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.0.3"
-  flutter_plugin_android_lifecycle:
-    dependency: transitive
-    description:
-      name: flutter_plugin_android_lifecycle
-      sha256: b068ffc46f82a55844acfa4fdbb61fad72fa2aef0905548419d97f0f95c456da
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.0.17"
   flutter_qr_bar_scanner:
     dependency: "direct main"
     description:
@@ -128,11 +104,6 @@ packages:
     version: "1.1.6"
   flutter_test:
     dependency: "direct dev"
-    description: flutter
-    source: sdk
-    version: "0.0.0"
-  flutter_web_plugins:
-    dependency: transitive
     description: flutter
     source: sdk
     version: "0.0.0"
